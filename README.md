@@ -21,3 +21,13 @@
 <img src="https://img.shields.io/badge/numpy-1.23.4-blue"/> <img src="https://img.shields.io/badge/opencv-4.6.0.66-blue"/> <img src="https://img.shields.io/badge/albumentations-1.3.0-blue"/> 
 
 <img src="https://img.shields.io/badge/pytorch-1.11.0-red"/> <img src="https://img.shields.io/badge/torchvision-0.12.0-red"/>  ....
+
+## Problem Solving Strategy
+![슬라이드 1](/presentation/슬라이드1.PNG)
+![슬라이드 2](/presentation/슬라이드2.PNG)
+![슬라이드 3](/presentation/슬라이드3.PNG)
+![슬라이드 4](/presentation/슬라이드4.PNG)
+![슬라이드 5](/presentation/슬라이드5.PNG)
+![슬라이드 6](/presentation/슬라이드6.PNG)
+![슬라이드 7](/presentation/슬라이드7.PNG)
+![슬라이드 8](/presentation/슬라이드8.PNG)
